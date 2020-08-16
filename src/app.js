@@ -1,13 +1,16 @@
 import React from "react";
 import ReactDOM from "react-dom";
-
+import { BrowserRouter as Router, Route, Link } from "react-router-dom";
+import PostList from "./components/postList";
 
 const App = () => (
-  <div>
-    <section className="section container content">
-      <h1>Hello Beautiful!</h1>
-    </section>
-  </div>
+    <Router>
+        <div>
+            <section className="section container content">
+                <Route exact path="/" component={PostList} />
+            </section>
+        </div>
+    </Router>
 );
 
 ReactDOM.render(<App />, document.getElementById("app"));
