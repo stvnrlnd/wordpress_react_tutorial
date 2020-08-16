@@ -16,3 +16,9 @@ Feel free to look around, check out the series, fork the project, play and have 
   <img src="./tutorial_series_assets/images/react+from+scratch.png?raw=true">
 </a>
 <p>Let's walkthrough the process of setting up a new React app from scratch. This is the second part in my WordPress REST API + React series, check it out!</p>
+
+### 3. [Routing with React](https://www.stevenroland.com/development/routing-with-react/)
+<a href="https://www.stevenroland.com/development/routing-with-react/">
+  <img src="./tutorial_series_assets/images/routing+with+react.png?raw=true">
+</a>
+<p>Learn how to quickly set up routing for a React project from scratch. I set up a router for the React front-end that'll consume WordPress REST API data.</p>
