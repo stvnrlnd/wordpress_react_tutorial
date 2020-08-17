@@ -22,3 +22,9 @@ Feel free to look around, check out the series, fork the project, play and have 
   <img src="./tutorial_series_assets/images/routing+with+react.png?raw=true">
 </a>
 <p>Learn how to quickly set up routing for a React project from scratch. I set up a router for the React front-end that'll consume WordPress REST API data.</p>
+
+### 4. [Data-Driven React with the WordPress REST API](https://www.stevenroland.com/development/data-driven-react-with-the-wordpress-rest-api/)
+<a href="https://www.stevenroland.com/development/data-driven-react-with-the-wordpress-rest-api/">
+  <img src="./tutorial_series_assets/images/ddd+react+wordpress+api.png?raw=true">
+</a>
+<p>It's easier than you think to build a data-driven web app with React powered by the WordPress REST API. Here's a quick post about how I'm doing it.</p>
