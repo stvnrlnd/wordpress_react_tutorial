@@ -28,3 +28,9 @@ Feel free to look around, check out the series, fork the project, play and have 
   <img src="./tutorial_series_assets/images/ddd+react+wordpress+api.png?raw=true">
 </a>
 <p>It's easier than you think to build a data-driven web app with React powered by the WordPress REST API. Here's a quick post about how I'm doing it.</p>
+
+### 5. [Data-Driven React with the WordPress REST API](https://www.stevenroland.com/development/wordpress-powered-react/)
+<a href="https://www.stevenroland.com/development/wordpress-powered-react/">
+  <img src="./tutorial_series_assets/images/wordpress-powered+react.png?raw=true">
+</a>
+<p>Build a fully functioning React blog powered by the WordPress REST API. This is part two of data-driven React with the WordPress.</p>
