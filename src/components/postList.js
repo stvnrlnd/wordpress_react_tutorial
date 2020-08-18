@@ -1,5 +1,6 @@
 import React, { Component } from "react";
 import axios from "axios";
+import { Link } from "react-router-dom";
 
 class PostList extends Component {
     constructor(props) {
@@ -30,11 +31,11 @@ class PostList extends Component {
         return (
             <div>
                 {this.state.posts.map(post => (
-                    <div className="card" key={post.id}>
-                        <div className="card-content">
+                    <div key={post.id}>
+                        <Link to={`/${post.slug}`}>
                             <h3>{post.title.rendered}</h3>
-                            <div dangerouslySetInnerHTML={this.htmlMarkup( post.excerpt.rendered )} />
-                        </div>
+                        </Link>
+                        <div dangerouslySetInnerHTML={this.htmlMarkup( post.excerpt.rendered )} />
                     </div>
                 ))}
             </div>
