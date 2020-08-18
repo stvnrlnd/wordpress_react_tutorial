@@ -9,7 +9,7 @@ const App = () => (
         <div>
             <section className="section container content">
                 <Route exact path="/" component={PostList} />
-                <Route path="/post" component={PostView} />
+                <Route path="/:slug" component={PostView} />
             </section>
         </div>
     </Router>
