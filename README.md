@@ -29,8 +29,14 @@ Feel free to look around, check out the series, fork the project, play and have 
 </a>
 <p>It's easier than you think to build a data-driven web app with React powered by the WordPress REST API. Here's a quick post about how I'm doing it.</p>
 
-### 5. [Data-Driven React with the WordPress REST API](https://www.stevenroland.com/development/wordpress-powered-react/)
+### 5. [WordPress-Powered React](https://www.stevenroland.com/development/wordpress-powered-react/)
 <a href="https://www.stevenroland.com/development/wordpress-powered-react/">
   <img src="./tutorial_series_assets/images/wordpress-powered+react.png?raw=true">
 </a>
 <p>Build a fully functioning React blog powered by the WordPress REST API. This is part two of data-driven React with the WordPress.</p>
+
+### 6. [Common Components in React](https://www.stevenroland.com/development/common-components-in-react/)
+<a href="https://www.stevenroland.com/development/common-components-in-react/">
+  <img src="./tutorial_series_assets/images/common+components+in+react.png?raw=true">
+</a>
+<p>Not sure how to build common, or shared, components in React? I wrote a short article to help you get started. Check it out!</p>
